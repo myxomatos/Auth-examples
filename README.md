@@ -8,7 +8,7 @@ cd Auth-examples
 npm i
 ```
 
-go to `src/app/firebase.js` and replace this with your firebase credentials:
+Ve a `src/app/firebase.js` y reemplaza ésto con tus credenciales de Firebase:
 
 ```js
 const firebaseConfig = {
